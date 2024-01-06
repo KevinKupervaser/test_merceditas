@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "cafe colombia",
+    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
+    "price": 1500,
+    "img": "/images/cafe-bombon-cremoso.jpg",
+    "category": "bebidas",
+    "stock": true
+  },
+  {
+    "id": 2,
+    "name": "revuelto",
+    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
+    "price": 2000,
+    "img": "/images/revuelto.jpg",
+    "category": "almuerzo",
+    "stock": true
+  },
+  {
+    "id": 3,
+    "name": "cafe especial",
+    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
+    "price": 3500,
+    "img": "/images/medialunas.webp",
+    "category": "desayuno",
+    "stock": true
+  },
+  {
+    "id": 4,
+    "name": "cafe economico",
+    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
+    "price": 900,
+    "img": "/images/especial.webp",
+    "category": "bebidas",
+    "stock": true
+  }
+]
